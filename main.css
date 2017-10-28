@@ -1,0 +1,17 @@
+.content {
+    background-color: lightgray;
+    padding: 10px;
+    padding-top: 30px;
+    
+    margin-bottom: 50px;
+}
+
+.descriptiontext {
+    color: blue;
+    font-style: italic;
+}
+
+.fineprint {
+    color: green;
+    font-size: 5pt;
+}
